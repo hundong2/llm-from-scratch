@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://tensorflow.blog/llm-from-scratch/"><img src="https://tensorflow.blog/wp-content/uploads/2025/09/ebb091ebb094eb8ba5llm_ebb3b8ecb185_ec959eeba9b4.jpg" width="350px"></a>
+<a href="https://tensorflow.blog/llm-from-scratch/"><img src="https://tensorflow.blog/wp-content/uploads/2025/09/ebb091ebb094eb8ba5llm_3ec8784_ec959eeba9b4.jpg" width="350px"></a>
 
 <br>
 
